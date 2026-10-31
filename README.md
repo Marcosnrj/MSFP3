@@ -622,8 +622,6 @@ El procedimiento conecta la interpretación fisiológica con la formulación ana
 <a id="estructura"></a>
 ## Estructura del repositorio
 
-Los enlaces de este README suponen que todos los archivos se colocan en la misma carpeta.
-
 | Archivo | Contenido |
 |---|---|
 | `README.md` | Reporte y guía de reproducción |
